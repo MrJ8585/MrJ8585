@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is Jose Antonio</h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrJ8585&theme=darkhub&column=6&row=1&margin-w=15&)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 👥 I'm open to new projects ideas and collaborations.
 ###
 
 <h2 align="left">Languages, Frameworks and Technologies</h2>
@@ -41,7 +44,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=MrJ8585&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MrJ8585&locale=en&mode=weekly&theme=github-dark-blue&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
 </div>
 
 ###
